@@ -23,6 +23,7 @@ setup(
         'mock',
         'simplejson',
         'requests',
+        'slumber',
     ],
     license='MIT',
     classifiers=[
